@@ -60,7 +60,7 @@ spring:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/SlyeR28/jumbotailAssigment.git
     cd shipping-charge-estimator
     ```
 
