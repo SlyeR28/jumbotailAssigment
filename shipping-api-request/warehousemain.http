@@ -1,0 +1,6 @@
+GET http://localhost:4000/api/v1/warehouse/nearest?sellerId=2&orderId=2
+
+###
+PUT http://localhost:4000/api/v1/order/confirm/1
+
+

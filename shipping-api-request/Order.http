@@ -1,0 +1,81 @@
+##################################################################
+# Order 1 – Customer 1 orders from Seller 1
+##################################################################
+
+POST http://localhost:4000/api/v1/order/create
+Content-Type: application/json
+
+{
+  "customerId": 1,
+  "sellerId": 1,
+  "items": [
+    { "productId": 1, "quantity": 2 },
+    { "productId": 2, "quantity": 1 }
+  ]
+}
+
+##################################################################
+# Order 2 – Customer 2 orders from Seller 2
+##################################################################
+
+POST http://localhost:4000/api/v1/order/create
+Content-Type: application/json
+
+{
+  "customerId": 2,
+  "sellerId": 2,
+  "items": [
+    { "productId": 4, "quantity": 1 },
+    { "productId": 5, "quantity": 2 },
+    { "productId": 6, "quantity": 1 }
+  ]
+}
+
+##################################################################
+# Order 3 – Customer 3 orders from Seller 3
+##################################################################
+
+POST http://localhost:4000/api/v1/order/create
+Content-Type: application/json
+
+{
+  "customerId": 3,
+  "sellerId": 3,
+  "items": [
+    { "productId": 7, "quantity": 1 },
+    { "productId": 8, "quantity": 3 }
+  ]
+}
+
+##################################################################
+# Order 4 – Customer 4 orders from Seller 4
+##################################################################
+
+POST http://localhost:4000/api/v1/order/create
+Content-Type: application/json
+
+{
+  "customerId": 4,
+  "sellerId": 4,
+  "items": [
+    { "productId": 10, "quantity": 2 },
+    { "productId": 11, "quantity": 1 },
+    { "productId": 12, "quantity": 1 }
+  ]
+}
+
+##################################################################
+# Order 5 – Customer 5 orders from Seller 5
+##################################################################
+
+POST http://localhost:4000/api/v1/order/create
+Content-Type: application/json
+
+{
+  "customerId": 5,
+  "sellerId": 5,
+  "items": [
+    { "productId": 13, "quantity": 1 },
+    { "productId": 14, "quantity": 2 }
+  ]
+}

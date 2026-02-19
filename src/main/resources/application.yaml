@@ -1,0 +1,22 @@
+# server port
+server:
+  port: 4000
+
+spring:
+  application:
+    name: shipping-charge-estimator
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/shiping_backend
+    username: root
+    password: Rishabh@28
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+

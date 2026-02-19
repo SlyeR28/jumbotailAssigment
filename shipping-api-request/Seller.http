@@ -1,0 +1,224 @@
+#########################################################
+# SELLERS - 20 ENTRIES
+#########################################################
+
+### Seller 1
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Nestle Seller",
+  "phoneNumber": "+919800100001",
+  "latitude": 12.990,
+  "longitude": 77.590
+}
+
+### Seller 2
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Rice Seller",
+  "phoneNumber": "+919800100002",
+  "latitude": 19.120,
+  "longitude": 72.900
+}
+
+### Seller 3
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Sugar Seller",
+  "phoneNumber": "+919800100003",
+  "latitude": 11.999,
+  "longitude": 79.101
+}
+
+### Seller 4
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Dairy Seller",
+  "phoneNumber": "+919800100004",
+  "latitude": 28.704,
+  "longitude": 77.102
+}
+
+### Seller 5
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Oil Seller",
+  "phoneNumber": "+919800100005",
+  "latitude": 22.572,
+  "longitude": 88.363
+}
+
+### Seller 6
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Spice Seller",
+  "phoneNumber": "+919800100006",
+  "latitude": 19.076,
+  "longitude": 72.877
+}
+
+### Seller 7
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Tea Seller",
+  "phoneNumber": "+919800100007",
+  "latitude": 26.912,
+  "longitude": 75.787
+}
+
+### Seller 8
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Coffee Seller",
+  "phoneNumber": "+919800100008",
+  "latitude": 13.082,
+  "longitude": 80.270
+}
+
+### Seller 9
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Flour Seller",
+  "phoneNumber": "+919800100009",
+  "latitude": 17.385,
+  "longitude": 78.486
+}
+
+### Seller 10
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Bread Seller",
+  "phoneNumber": "+919800100010",
+  "latitude": 22.307,
+  "longitude": 73.181
+}
+
+### Seller 11
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Milk Seller",
+  "phoneNumber": "+919800100011",
+  "latitude": 23.022,
+  "longitude": 72.571
+}
+
+### Seller 12
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Egg Seller",
+  "phoneNumber": "+919800100012",
+  "latitude": 28.535,
+  "longitude": 77.391
+}
+
+### Seller 13
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Vegetable Seller",
+  "phoneNumber": "+919800100013",
+  "latitude": 12.971,
+  "longitude": 77.594
+}
+
+### Seller 14
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Fruit Seller",
+  "phoneNumber": "+919800100014",
+  "latitude": 19.218,
+  "longitude": 72.978
+}
+
+### Seller 15
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Snack Seller",
+  "phoneNumber": "+919800100015",
+  "latitude": 28.613,
+  "longitude": 77.209
+}
+
+### Seller 16
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Beverage Seller",
+  "phoneNumber": "+919800100016",
+  "latitude": 19.076,
+  "longitude": 72.877
+}
+
+### Seller 17
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Ice-Cream Seller",
+  "phoneNumber": "+919800100017",
+  "latitude": 13.035,
+  "longitude": 77.597
+}
+
+### Seller 18
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Biscuits Seller",
+  "phoneNumber": "+919800100018",
+  "latitude": 11.016,
+  "longitude": 76.955
+}
+
+### Seller 19
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Chocolates Seller",
+  "phoneNumber": "+919800100019",
+  "latitude": 26.449,
+  "longitude": 80.331
+}
+
+### Seller 20
+POST http://localhost:4000/api/v1/seller/create
+Content-Type: application/json
+
+{
+  "sellerName": "Juice Seller",
+  "phoneNumber": "+919800100020",
+  "latitude": 22.572,
+  "longitude": 88.363
+}
+

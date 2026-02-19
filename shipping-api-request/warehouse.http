@@ -1,0 +1,199 @@
+### Warehouse 1
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "BLR_Warehouse",
+  "latitude": 12.99999,
+  "longitude": 77.923273
+}
+
+### Warehouse 2
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "MUMB_Warehouse",
+  "latitude": 19.0760,
+  "longitude": 72.8777
+}
+
+### Warehouse 3
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "DELHI_Warehouse",
+  "latitude": 28.7041,
+  "longitude": 77.1025
+}
+
+### Warehouse 4
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "CHEN_Warehouse",
+  "latitude": 13.0827,
+  "longitude": 80.2707
+}
+
+### Warehouse 5
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "KOLK_Warehouse",
+  "latitude": 22.5726,
+  "longitude": 88.3639
+}
+
+### Warehouse 6
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "HYD_Warehouse",
+  "latitude": 17.3850,
+  "longitude": 78.4867
+}
+
+### Warehouse 7
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "PUNE_Warehouse",
+  "latitude": 18.5204,
+  "longitude": 73.8567
+}
+
+### Warehouse 8
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "AHMD_Warehouse",
+  "latitude": 23.0225,
+  "longitude": 72.5714
+}
+
+### Warehouse 9
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "JAIP_Warehouse",
+  "latitude": 26.9124,
+  "longitude": 75.7873
+}
+
+### Warehouse 10
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "LUCK_Warehouse",
+  "latitude": 26.8467,
+  "longitude": 80.9462
+}
+
+### Warehouse 11
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "SUR_Warehouse",
+  "latitude": 21.1702,
+  "longitude": 72.8311
+}
+
+### Warehouse 12
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "COIM_Warehouse",
+  "latitude": 11.0168,
+  "longitude": 76.9558
+}
+
+### Warehouse 13
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "BHOP_Warehouse",
+  "latitude": 23.2599,
+  "longitude": 77.4126
+}
+
+### Warehouse 14
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "PUNE2_Warehouse",
+  "latitude": 18.5196,
+  "longitude": 73.8553
+}
+
+### Warehouse 15
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "CHAND_Warehouse",
+  "latitude": 30.7333,
+  "longitude": 76.7794
+}
+
+### Warehouse 16
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "KANP_Warehouse",
+  "latitude": 26.4499,
+  "longitude": 80.3319
+}
+
+### Warehouse 17
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "NAG_Warehouse",
+  "latitude": 21.1458,
+  "longitude": 79.0882
+}
+
+### Warehouse 18
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "COCH_Warehouse",
+  "latitude": 9.9312,
+  "longitude": 76.2673
+}
+
+### Warehouse 19
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "THAN_Warehouse",
+  "latitude": 19.2183,
+  "longitude": 72.9781
+}
+
+### Warehouse 20
+POST http://localhost:4000/api/v1/warehouse/create
+Content-Type: application/json
+
+{
+  "name": "RAIP_Warehouse",
+  "latitude": 21.2514,
+  "longitude": 81.6296
+}

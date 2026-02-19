@@ -1,0 +1,228 @@
+GET http://localhost:4000/api/v1/customer/all
+Accept: application/json
+
+###
+#########################################################
+# CUSTOMERS - 20 ENTRIES
+#########################################################
+
+### Customer 1
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Shree Kirana Store",
+  "phoneNumber": "+919847000001",
+  "latitude": 11.232,
+  "longitude": 23.445495
+}
+
+### Customer 2
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Andheri Mini Mart",
+  "phoneNumber": "+919101000002",
+  "latitude": 17.232,
+  "longitude": 33.445495
+}
+
+### Customer 3
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Powai Supermarket",
+  "phoneNumber": "+919101000003",
+  "latitude": 19.120,
+  "longitude": 72.900
+}
+
+### Customer 4
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Borivali Grocery",
+  "phoneNumber": "+919101000004",
+  "latitude": 19.226,
+  "longitude": 72.856
+}
+
+### Customer 5
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Andheri Central",
+  "phoneNumber": "+919101000005",
+  "latitude": 19.120,
+  "longitude": 72.830
+}
+
+### Customer 6
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Kalyan Kirana Store",
+  "phoneNumber": "+919101000006",
+  "latitude": 19.240,
+  "longitude": 73.130
+}
+
+### Customer 7
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Vashi Mini Mart",
+  "phoneNumber": "+919101000007",
+  "latitude": 19.070,
+  "longitude": 73.010
+}
+
+### Customer 8
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Ghatkopar Grocery",
+  "phoneNumber": "+919101000008",
+  "latitude": 19.100,
+  "longitude": 72.900
+}
+
+### Customer 9
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Chembur Kirana",
+  "phoneNumber": "+919101000009",
+  "latitude": 19.072,
+  "longitude": 72.910
+}
+
+### Customer 10
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Malad Supermarket",
+  "phoneNumber": "+919101000010",
+  "latitude": 19.210,
+  "longitude": 72.850
+}
+
+### Customer 11
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Khar Shopping Center",
+  "phoneNumber": "+919101000011",
+  "latitude": 19.050,
+  "longitude": 72.840
+}
+
+### Customer 12
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Chembur Mart",
+  "phoneNumber": "+919101000012",
+  "latitude": 19.072,
+  "longitude": 72.905
+}
+
+### Customer 13
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Andheri West Grocery",
+  "phoneNumber": "+919101000013",
+  "latitude": 19.120,
+  "longitude": 72.830
+}
+
+### Customer 14
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Vile Parle Mart",
+  "phoneNumber": "+919101000014",
+  "latitude": 19.100,
+  "longitude": 72.840
+}
+
+### Customer 15
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Kurla Superstore",
+  "phoneNumber": "+919101000015",
+  "latitude": 19.070,
+  "longitude": 72.890
+}
+
+### Customer 16
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Chembur West Grocery",
+  "phoneNumber": "+919101000016",
+  "latitude": 19.072,
+  "longitude": 72.900
+}
+
+### Customer 17
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Santacruz Mart",
+  "phoneNumber": "+919101000017",
+  "latitude": 19.090,
+  "longitude": 72.820
+}
+
+### Customer 18
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Vashi Grocery",
+  "phoneNumber": "+919101000018",
+  "latitude": 19.070,
+  "longitude": 73.000
+}
+
+### Customer 19
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Andheri East Mini Mart",
+  "phoneNumber": "+919101000019",
+  "latitude": 19.110,
+  "longitude": 72.850
+}
+
+### Customer 20
+POST http://localhost:4000/api/v1/customer/create
+Content-Type: application/json
+
+{
+  "shopName": "Mulund Grocery",
+  "phoneNumber": "+919101000020",
+  "latitude": 19.160,
+  "longitude": 73.030
+}
+
